@@ -38,5 +38,5 @@ Fashion-MNIST consists of 70,000 grayscale images (28x28 pixels) spanning 10 dis
 ```text
 .
 ├── pytorch/         # PyTorch dataset loading, model definitions, & training scripts
-├── tensorflow/      # TensorFlow/Keras notebook/scripts & evaluation
+├── tensorflow/      # TensorFlow/Keras scripts & evaluation
 └── README.md
